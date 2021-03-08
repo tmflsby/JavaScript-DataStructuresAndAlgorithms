@@ -13,7 +13,6 @@
  * 输入：s = "{[]}"      输出：true
  * */
 
-
 /**
  * @param {string} s
  * @return {boolean}

@@ -9,5 +9,3 @@ const has = set.has(6)
 // 求交集
 const set2 = new Set([2, 3, 6])
 const set3 = new Set([...set].filter(item => set2.has(item)))
-
-a

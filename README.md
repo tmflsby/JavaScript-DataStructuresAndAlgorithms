@@ -9,3 +9,5 @@
 ## [链表](./LinkedList/index.md)
 
 ## [集合](./Set/index.md)
+
+## [字典](./Map/index.md)
